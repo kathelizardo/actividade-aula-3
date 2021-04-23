@@ -7,7 +7,7 @@ let ciudade= prompt('Ciudade de Residência')
 console.log('Nome:' + nome + (' ')+ sobrenome )
 console.log('Idade:' + idade + (' ') + 'anos')
 console.log('Nacionalidade:' + nacionalidade)
-console.log('Recidencia:' + ciudade)
+console.log('Residencia:' + ciudade)
 console.log ('Seu registro foi bem sucedido')
 console.log ('Bem-vindo')
 
